@@ -51,7 +51,8 @@
 ## Stats
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=omni&show_icons=true&hide=issues)
-
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abellasjuan&theme=omni&show_icons=true&hide=issues)
+    
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/abellasjuan/count.svg" />
  </p>
