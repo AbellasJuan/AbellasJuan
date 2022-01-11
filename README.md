@@ -52,3 +52,7 @@
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=omni&show_icons=true&hide=issues)
 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
