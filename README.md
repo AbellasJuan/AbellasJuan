@@ -8,7 +8,7 @@
 
 - 👋 My name is Juan, I'm 28 yo.
 - ✍ You can find my projects [here](https://github.com/AbellasJuan?tab=repositories).
-- 🎓 I'm currently being trained by [Driven Education](https://www.driven.com.br/) to be a Fullstack developer and C.
+- 🎓 I'm currently being trained by [Driven Education](https://www.driven.com.br/) to be a Fullstack developer.
 - 😄 Pronouns: He/Him.
 - 🎉 Fun Fact: I won the Rio de Janeiro Jiu-Jitsu Championship and I have double nationality (Spanish/Brazil).
 
