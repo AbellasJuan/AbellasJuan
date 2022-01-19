@@ -10,7 +10,7 @@
 - ✍ You can find my projects [here](https://github.com/AbellasJuan?tab=repositories).
 - 🎓 I'm currently being trained by [Driven Education](https://www.driven.com.br/) to be a Fullstack developer.
 - 😄 Pronouns: He/Him.
-- 🎉 Fun Fact: I won the Rio de Janeiro Jiu-Jitsu Championship in 2015 and I have double nationality (Spanish / Brazil).
+- 🎉 Fun Fact: I won the Rio de Janeiro Jiu-Jitsu Championship in 2015 and I have double nationality (Spanish / Brazilian).
 
 ## Technologies that I'm studying
 
