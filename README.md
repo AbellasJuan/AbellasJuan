@@ -52,9 +52,12 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
 
 ## Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=omni&show_icons=true&hide=issues)
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abellasjuan&theme=omni&show_icons=true&hide=issues)
+<div style="display:inline;" align="center">
+ 
+  ![Juan's GitHub stats]<img height="165em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=great-gatsby&show_icons=true&hide=issues"/>
+  ![Juan's GitHub stats]<img height="165em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abellasjuan&theme=great-gatsby&layout=compact"/>
+ 
+</div>
     
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/abellasjuan/count.svg" />
