@@ -54,8 +54,8 @@
 ## Stats
 <div style="display:inline;" align="center">
  
-  ![Juan's GitHub stats]<img height="165em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=great-gatsby&show_icons=true&hide=issues"/>
-  ![Juan's GitHub stats]<img height="165em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abellasjuan&theme=great-gatsby&layout=compact"/>
+<img height="165em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=great-gatsby&show_icons=true&hide=issues"/>
+ <img height="165em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abellasjuan&theme=great-gatsby&layout=compact"/>
  
 </div>
     
