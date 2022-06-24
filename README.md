@@ -59,3 +59,6 @@
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/abellasjuan/count.svg" />
  </p>
+ 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="juan-abellas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/juan-abellas?trk=profile-badge">Juan Abellas</a></div>
+              
