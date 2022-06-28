@@ -71,6 +71,16 @@
 <div style="display:inline;" align="center">
 <img height="150em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=great-gatsby&show_icons=true&hide=issues"/> <img height="150em" alt="Juan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abellasjuan&theme=great-gatsby&layout=compact"/>
 </div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ruineto-dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="ruineto-dev_contribution_streak" />
+
+  <img height="205em" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&hide_border=true" />
+
+  <img height="205em" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev" />
+</div>
   
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/abellasjuan/count.svg" />
