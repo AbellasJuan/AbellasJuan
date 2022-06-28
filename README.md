@@ -75,7 +75,7 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ruineto-dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="ruineto-dev_contribution_streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abellasjuan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="abellasjuan_contribution_streak" />
 
   <img height="205em" alt="abellasjuan stats" src="https://github-readme-stats.vercel.app/api?username=abellasjuan&show_icons=true&hide_border=true" />
 
