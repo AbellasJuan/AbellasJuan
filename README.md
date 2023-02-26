@@ -6,9 +6,10 @@
 
 ## About me
 
-- 👋 My name is Juan. I'm 28 yo.
+- 👋 My name is Juan. I'm 29 yo.
+- 👔 At the moment, I work at Capco using Angular 8. 
 - ✍ You can find my projects [here](https://github.com/AbellasJuan?tab=repositories).
-- 🎓 I'm currently being trained by [Driven Education](https://www.driven.com.br/) to be a Fullstack developer.
+- 🎓 I'm trained by [Driven Education](https://www.driven.com.br/).
 - 😄 Pronouns: He/Him.
 - 🎉 Fun Facts: I won the Rio de Janeiro Jiu-Jitsu Championship in 2015 and I have double nationality (Spanish / Brazilian).
 
