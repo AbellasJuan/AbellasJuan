@@ -74,7 +74,3 @@
 <img  height="160em"  src="https://github-readme-stats.vercel.app/api?username=abellasjuan&theme=great&show_icons=true">
 <img  height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abellasjuan&theme=buefy&layout=compact">
 </div>
-
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/abellasjuan/count.svg" />
- </p>
