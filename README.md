@@ -6,8 +6,8 @@
 
 ## About me
 
-- 👋 My name is Juan. I'm 29 yo.
-- 👔 I work at CAPCO.
+- 👋 My name is Juan. I'm 30 yo.
+- 👔 I'm working at CAPCO.
 - ✍ You can find my projects [here](https://github.com/AbellasJuan?tab=repositories).
 - 🎓 I'm trained by [Driven Education](https://www.driven.com.br/).
 - 😄 Pronouns: He/Him.
