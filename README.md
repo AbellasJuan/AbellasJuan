@@ -10,7 +10,6 @@
 - 👔 I'm working at CAPCO.
 - ✍ You can find my projects [here](https://github.com/AbellasJuan?tab=repositories).
 - 🎓 I'm trained by [Driven Education](https://www.driven.com.br/).
-- 😄 Pronouns: He/Him.
 
 ## Tech Stack
 
